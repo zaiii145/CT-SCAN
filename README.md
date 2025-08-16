@@ -12,8 +12,7 @@ This project involves classifying CT scan images using deep learning with Tensor
 - ct_env/ and tf_env/ : Virtual environments for the project.
 - archive/ : Archived files.
 
-##Dataset
-https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain
+Dataset: https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain
 
 
 ## Setup
@@ -59,3 +58,4 @@ This project is open-source and available under the MIT License (assuming standa
 "# CT-Scan-" 
 
 #
+
