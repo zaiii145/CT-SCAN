@@ -12,8 +12,6 @@ This project involves classifying CT scan images using deep learning with Tensor
 - ct_env/ and tf_env/ : Virtual environments for the project.
 - archive/ : Archived files.
 
-Dataset: https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain
-
 
 ## Setup
 1. Clone the repository or navigate to the project directory:
@@ -26,6 +24,9 @@ Dataset: https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-
 3. Install dependencies:
    pip install -r requirements.txt
    Note: Ensure TensorFlow and other required libraries like numpy, pandas, matplotlib, opencv, scikit-learn are installed.
+
+   Dataset: https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain
+
 ## Usage
 1.  Open the Jupyter notebook:
    jupyter notebook dl_simplified_ct.ipynb
@@ -58,4 +59,5 @@ This project is open-source and available under the MIT License (assuming standa
 "# CT-Scan-" 
 
 #
+
 
